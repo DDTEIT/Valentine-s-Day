@@ -24,12 +24,12 @@
 .scroll_up {
     display: block;
     color: #FFE1FF;
-    font-size: 75px;
+    font-size: 200px;
     user-select: none;
     cursor: pointer;
     position: fixed;
-    margin-top: 620px;
-    margin-left: 1650px;
+    margin-top: 300px;
+    margin-left: 1250px;
 }
 
 .scroll_up:hover {
