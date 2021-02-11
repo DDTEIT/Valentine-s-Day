@@ -22,7 +22,7 @@
 }
 
 .scroll_up {
-    display: none;
+    display: block;
     color: #FFE1FF;
     font-size: 75px;
     user-select: none;
