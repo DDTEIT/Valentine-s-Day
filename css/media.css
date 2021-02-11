@@ -1,0 +1,23 @@
+@media screen and (max-width: 401px) {
+    .logoDay h1 {
+        font-size: 50px;
+    }
+    
+    .logoDay h3 {
+        margin-top: -20px;
+        font-size: 15px;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    .logoDay h1 {
+        font-size: 43px;
+    }
+    
+    .logoDay h3 {
+        margin-top: -20px;
+        font-size: 15px;
+        width: 95%;
+    }
+}
