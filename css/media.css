@@ -50,7 +50,7 @@
 
 @media screen and (max-width: 920px) {
     #bl1, #bl2, #bl3, #bl4, #bl5 {
-        width: 70%;
+        width: 80%;
     }
 
     .img1-3, .img2-3, .img3-3, .img4-3, .img5-3 {
@@ -104,7 +104,7 @@
 /* Адаптация с разрешением от Ipad */
 @media screen and (max-width: 840px) {
     #bl1, #bl2, #bl3, #bl4, #bl5 {
-        width: 70%;
+        width: 80%;
     }
 
     .img1-3, .img2-3, .img3-3, .img4-3, .img5-3 {
@@ -164,7 +164,7 @@
 
 @media screen and (max-width: 690px) {
     #bl1, #bl2, #bl3, #bl4, #bl5 {
-        width: 70%;
+        width: 80%;
     }
 
     .img1-3, .img2-3, .img3-3, .img4-3, .img5-3 {
@@ -224,7 +224,7 @@
 
 @media screen and (max-width: 600px) {
     #bl1, #bl2, #bl3, #bl4, #bl5 {
-        width: 70%;
+        width: 80%;
     }
 
     #arrow1, #arrow2, #arrow3, #arrow4, #arrow5 {
