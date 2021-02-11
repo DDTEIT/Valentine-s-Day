@@ -1,6 +1,6 @@
 .scroll_up {
     display: none;
-    color: #FFE1FF;
+    color: transparent;
     font-size: 200px;
     user-select: none;
     cursor: pointer;
