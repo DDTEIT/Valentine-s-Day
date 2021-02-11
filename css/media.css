@@ -98,7 +98,6 @@
     .description, .description2, .description3, .description4, .description5 {
         font-size: 100%;
         margin-left: -45px;
-        width: 60%;
     }
 }
 
@@ -160,7 +159,6 @@
         font-size: 15px;
         margin-left: -75px;
         right: -7;
-        width: 70%;
     }
 }
 
@@ -221,7 +219,6 @@
         font-size: 15px;
         margin-left: -110px;
         right: -7;
-        width: 60%;
     }
 }
 
@@ -300,7 +297,6 @@
         font-size: 15px;
         margin-left: -130px;
         right: -7;
-        width: 60%;
     }
 }
 
@@ -315,7 +311,6 @@
         font-size: 13px;
         margin-left: -140px;
         right: -7;
-        width: 60%;
     }
 }
 
@@ -324,7 +319,6 @@
           margin-left: -40px;
           height: 60%;
           width: 90%;
-          width: 60%;
       }
   
       .description, .description2, .description3, .description4, .description5 {
@@ -345,6 +339,5 @@
           font-size: 12px;
           margin-left: -160px;
           right: -7;
-          width: 60%;
       }
   }
