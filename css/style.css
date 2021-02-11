@@ -5,7 +5,7 @@ body {
     margin: 0;
     height: 100%;
     width: 100%;
-    background-color: #FF4D50;
+    background-color: #FF4771;
     background-size: 80px 80px;
     background-image: -webkit-linear-gradient(0deg,rgba(0,0,0,0.1) 50%, transparent 50%),
     -webkit-linear-gradient(rgba(0,0,0,0.2) 50%, transparent 50%);
@@ -109,7 +109,7 @@ footer {
     margin-right: 10%*/
 }
 #bl1{
-    background: #FF4444; 
+    background: #EF1C57; 
     position: absolute;
     left: 50%;
     margin-right: -50%;
@@ -220,7 +220,7 @@ footer {
 }
 /*---------------------------------------------------------------------------------------*/
 #bl2{
-    background: #FF0000; 
+    background: #EF1C57; 
     position: absolute;
     left: 50%;
     margin-right: -50%;
@@ -331,7 +331,7 @@ footer {
 }
 /*---------------------------------------------------------------------------------------*/
 #bl3{
-    background: #FF0000; 
+    background: #EF1C57; 
     position: absolute;
     left: 50%;
     margin-right: -50%;
@@ -442,7 +442,7 @@ footer {
 }
 /*---------------------------------------------------------------------------------------*/
 #bl4{
-    background: #FF0000; 
+    background: #EF1C57; 
     position: absolute;
     left: 50%;
     margin-right: -50%;
@@ -553,7 +553,7 @@ footer {
 }
 /*---------------------------------------------------------------------------------------*/
 #bl5{
-    background: #FF0000; 
+    background: #EF1C57; 
     position: absolute;
     left: 50%;
     margin-right: -50%;
