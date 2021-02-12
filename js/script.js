@@ -375,19 +375,5 @@ jQuery(document).ready(function($){
             $("#arrow5").css({"top": "190px", "transform": "rotate(-0deg)", "left": "50%", "transform": "translate(-50%, -50%)"});
         }
     });
-	
-	$(function() {
-		$('.scroll_up').click(function() {
-			$("html, body").animate({scrollTop:0},1000);
-		})
-		})
-		$(window).scroll(function() {
-		if ($(this).scrollTop()>200) {
-			$('.scroll_up').fadeIn();
-		}
-		else {
-			$('.scroll_up').fadeOut();
-		}
-	});
 });
 
