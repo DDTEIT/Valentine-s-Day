@@ -19,13 +19,13 @@ body{
   text-align: center;
   color: #FFFFFF;
   font-size: 45px;
-  font-family: 'Sriracha', cursive;
+  
   user-select: none;
 }
 .t1, .t2, .t3, .t4, .t5, .t6, .t7{
   color: #FFFFFF;
   font-size: 27px;
-  font-family: 'Sriracha', cursive;
+  
   margin-right: 65px;
   margin-left: 65px;
 }
@@ -45,7 +45,7 @@ body{
   text-align: center;
   color: transparent;
   font-size: 15px;
-  font-family: 'Sriracha', cursive;
+ 
   user-select: none;
   z-index: 2;
   transition: 1.5s;
